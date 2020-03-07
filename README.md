@@ -1,6 +1,6 @@
 # passport-2fa-totp
 
-[![Build Status](https://travis-ci.org/ilich/passport-2fa-totp.svg?branch=master)](https://travis-ci.org/ilich/passport-2fa-totp)
+![](https://github.com/virtualcodewarrior/passport-2fa-totp/workflows/passport-2fa-totp-tests/badge.svg)
 
 [Passport](http://passportjs.org/) strategy for Two-factor authenticating with a username, password and TOTP code.
 
