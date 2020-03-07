@@ -2,7 +2,7 @@
 
 const expect = require('chai').expect;
 const base32 = require('thirty-two');
-const GoogleAuthenticator = require('..').GoogeAuthenticator;
+const GoogleAuthenticator = require('..').GoogleAuthenticator;
 
 describe('Google Authenticator utils', function () {
     it('register', function () {
